@@ -1,29 +1,51 @@
-springboot/web/dto/PostsUpdateRequestDto.java
- springboot.web.dto.PostsUpdateRequestDto
- springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+springboot/config/auth/SecurityConfig.java
+ springboot.config.auth.SecurityConfig
 springboot/web/dto/HelloResponseDto.java
  springboot.web.dto.HelloResponseDto
-springboot/web/HelloController.java
- springboot.web.HelloController
-springboot/web/dto/PostsResponseDto.java
- springboot.web.dto.PostsResponseDto
+springboot/web/PostsApiController.java
+ springboot.web.PostsApiController
+springboot/domain/user/Role.java
+ springboot.domain.user.Role
+springboot/service/posts/PostsService.java
+ springboot.service.posts.PostsService
+springboot/web/dto/PostsListResponseDto.java
+ springboot.web.dto.PostsListResponseDto
 springboot/Application.java
  springboot.Application
+springboot/config/auth/dto/SessionUser.java
+ springboot.config.auth.dto.SessionUser
+springboot/domain/user/User.java
+ springboot.domain.user.User
+ springboot.domain.user.User$UserBuilder
 springboot/domain/posts/Posts.java
  springboot.domain.posts.Posts
  springboot.domain.posts.Posts$PostsBuilder
+springboot/domain/posts/PostsRepository.java
+ springboot.domain.posts.PostsRepository
+springboot/web/dto/PostsUpdateRequestDto.java
+ springboot.web.dto.PostsUpdateRequestDto
+ springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+springboot/web/HelloController.java
+ springboot.web.HelloController
 springboot/web/dto/PostsSaveRequestDto.java
  springboot.web.dto.PostsSaveRequestDto
  springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
 springboot/domain/BaseTimeEntity.java
  springboot.domain.BaseTimeEntity
-springboot/domain/posts/PostsRepository.java
- springboot.domain.posts.PostsRepository
-springboot/web/dto/PostsListResponseDto.java
- springboot.web.dto.PostsListResponseDto
+springboot/domain/user/UserRepository.java
+ springboot.domain.user.UserRepository
+springboot/web/dto/PostsResponseDto.java
+ springboot.web.dto.PostsResponseDto
+springboot/config/auth/LoginUser.java
+ springboot.config.auth.LoginUser
+springboot/config/auth/LoginUserArgumentResolver.java
+ springboot.config.auth.LoginUserArgumentResolver
 springboot/web/IndexController.java
  springboot.web.IndexController
-springboot/service/posts/PostsService.java
- springboot.service.posts.PostsService
-springboot/web/PostsApiController.java
- springboot.web.PostsApiController
+springboot/config/auth/WebConfig.java
+ springboot.config.auth.WebConfig
+springboot/config/auth/dto/OAuthAttributes.java
+ springboot.config.auth.dto.OAuthAttributes
+ springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+springboot/config/auth/CustomOAuth2UserService.java
+ springboot.config.auth.CustomOAuth2UserService
