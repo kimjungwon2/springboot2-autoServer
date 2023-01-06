@@ -1,10 +1,10 @@
 springboot/domain/posts/PostsRepositoryTest.java
  springboot.domain.posts.PostsRepositoryTest
-springboot/web/HelloControllerTest.java
- springboot.web.HelloControllerTest
+springboot/web/PostsApiControllerTest.java
+ springboot.web.PostsApiControllerTest
 springboot/web/dto/HelloResponseDtoTest.java
  springboot.web.dto.HelloResponseDtoTest
 springboot/web/IndexControllerTest.java
  springboot.web.IndexControllerTest
-springboot/web/PostsApiControllerTest.java
- springboot.web.PostsApiControllerTest
+springboot/web/HelloControllerTest.java
+ springboot.web.HelloControllerTest

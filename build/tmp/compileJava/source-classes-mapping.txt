@@ -10,8 +10,8 @@ springboot/service/posts/PostsService.java
  springboot.service.posts.PostsService
 springboot/web/dto/PostsListResponseDto.java
  springboot.web.dto.PostsListResponseDto
-springboot/Application.java
- springboot.Application
+springboot/config/auth/CustomOAuth2UserService.java
+ springboot.config.auth.CustomOAuth2UserService
 springboot/config/auth/dto/SessionUser.java
  springboot.config.auth.dto.SessionUser
 springboot/domain/user/User.java
@@ -47,5 +47,7 @@ springboot/config/auth/WebConfig.java
 springboot/config/auth/dto/OAuthAttributes.java
  springboot.config.auth.dto.OAuthAttributes
  springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
-springboot/config/auth/CustomOAuth2UserService.java
- springboot.config.auth.CustomOAuth2UserService
+springboot/Application.java
+ springboot.Application
+springboot/config/JpaConfig.java
+ springboot.config.JpaConfig
