@@ -47,7 +47,7 @@ springboot/config/auth/WebConfig.java
 springboot/config/auth/dto/OAuthAttributes.java
  springboot.config.auth.dto.OAuthAttributes
  springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
-springboot/Application.java
- springboot.Application
 springboot/config/JpaConfig.java
  springboot.config.JpaConfig
+springboot/Application.java
+ springboot.Application
