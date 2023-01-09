@@ -19,7 +19,7 @@ cache:
 script: "./gradlew clean build"
 
 before_deploy:
-  - zip r springboot2-autoServer.zip *
+  - zip r springboot2-autoServer *
   - mkdir -p deploy
   - mv springboot2-autoServer.zip deploy/springboot2-autoServer.zip
 
